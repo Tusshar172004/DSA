@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Tusshar172004/DSA/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Tusshar172004/DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Tusshar172004/DSA/tree/master/0242-valid-anagram) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusshar172004/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Tusshar172004/DSA/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusshar172004/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
