@@ -3,7 +3,7 @@ public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         if(inorder.size() != postorder.size()) return NULL;
 
-        unordered_map<int, int> inMap;
+        map<int, int> inMap;
         for(int i = 0; i < inorder.size(); i++) {
             inMap[inorder[i]] = i;
         }
@@ -14,7 +14,7 @@ public:
 
     TreeNode* build(vector<int>& inorder, int inStart, int inEnd,
                    vector<int>& postorder, int postStart, int postEnd,
-                   unordered_map<int, int>& inMap) {
+                   map<int, int>& inMap) {
         if(inStart > inEnd || postStart > postEnd) return NULL;
 
         TreeNode* root = new TreeNode(postorder[postEnd]);
