@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusshar172004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Tusshar172004/DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Tusshar172004/DSA/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Tusshar172004/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusshar172004/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tusshar172004/DSA/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/Tusshar172004/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Tusshar172004/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tusshar172004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tusshar172004/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Tusshar172004/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tusshar172004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Tusshar172004/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Tusshar172004/DSA/tree/master/0295-find-median-from-data-stream) |
