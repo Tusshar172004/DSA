@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Tusshar172004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Tusshar172004/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tusshar172004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Tusshar172004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar172004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusshar172004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tusshar172004/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Tusshar172004/DSA/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/Tusshar172004/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Tusshar172004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusshar172004/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar172004/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tusshar172004/DSA/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tusshar172004/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
