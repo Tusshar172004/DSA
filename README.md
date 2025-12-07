@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tusshar172004/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tusshar172004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusshar172004/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/Tusshar172004/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Tusshar172004/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tusshar172004/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Tusshar172004/DSA/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Tusshar172004/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar172004/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Tusshar172004/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
