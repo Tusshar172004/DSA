@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusshar172004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Tusshar172004/DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Tusshar172004/DSA/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Tusshar172004/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Tusshar172004/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusshar172004/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusshar172004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusshar172004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Tusshar172004/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Tusshar172004/DSA/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Tusshar172004/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tusshar172004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusshar172004/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusshar172004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Tusshar172004/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tusshar172004/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Tusshar172004/DSA/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
