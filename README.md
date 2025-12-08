@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tusshar172004/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Tusshar172004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusshar172004/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Tusshar172004/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Tusshar172004/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tusshar172004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusshar172004/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tusshar172004/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Tusshar172004/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tusshar172004/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Tusshar172004/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
